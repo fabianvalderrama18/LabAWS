@@ -1,0 +1,27 @@
+{
+    "protein_name": "hemoglobin subunit beta [Homo sapiens]",
+    "length": 146,
+    "amino_acid_counts": {
+        "A": 15,
+        "T": 7,
+        "C": 2,
+        "W": 2,
+        "H": 9,
+        "Q": 3,
+        "P": 7,
+        "Y": 3,
+        "D": 7,
+        "F": 8,
+        "E": 8,
+        "V": 18,
+        "N": 6,
+        "R": 3,
+        "K": 11,
+        "G": 13,
+        "M": 1,
+        "L": 18,
+        "S": 5
+    },
+    "molecular_weight": 18479.52,
+    "hydrophobic_percentage": 44.52
+}
